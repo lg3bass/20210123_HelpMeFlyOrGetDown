@@ -1,0 +1,28 @@
+# /BW_PUBLISH/20210123_HelpMeFlyOrGetDown/ #
+#################################################
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# PROJECT FILES I DON'T WANT ON GIT #
+#####################################
+VIDEO/
+
+
+
+20210123_HelpMeFlyOrGetDown\ Project/Samples/Recorded/
+20210123_HelpMeFlyOrGetDown\ Project/M4L/zOLD/
+20210123_HelpMeFlyOrGetDown\ Project/M4L/json/zOLD/
+20210123_HelpMeFlyOrGetDown\ Project/M4L/json/BKUP/
+20210123_HelpMeFlyOrGetDown\ Project/Finale/zOLD/
+20210123_HelpMeFlyOrGetDown\ Project/Backup/
+
+
+
